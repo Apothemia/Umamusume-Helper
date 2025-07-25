@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "name": "Night Owl",
+    "desc": "Before you know it, it's way past bedtime. Lack of sleep may cause her to lose Energy."
+  },
+  {
+    "id": 2,
+    "name": "Slacker",
+    "desc": "\"I don't really feel like practicing today...\" May not show up to training."
+  },
+  {
+    "id": 3,
+    "name": "Skin Outbreak",
+    "desc": "Skin often doesn't cooperate at that age. May suffer from drops in Mood."
+  },
+  {
+    "id": 4,
+    "name": "Slow Metabolism",
+    "desc": "She's starting to put on some weight. Cannot gain Speed from training."
+  },
+  {
+    "id": 5,
+    "name": "Migraine",
+    "desc": "These migraines are getting her down. Cannot gain improvements in Mood."
+  },
+  {
+    "id": 6,
+    "name": "Practice Poor",
+    "desc": "Whoa! Be careful not to trip! Has an increased chance of failing training."
+  },
+  {
+    "id": 7,
+    "name": "Fast Learner",
+    "desc": "She picks things up so easily! Gains all kinds of tactical hints."
+  },
+  {
+    "id": 8,
+    "name": "Charming \u25cb",
+    "desc": "\"Training with you is fun!\" Builds friendships with her training partners faster."
+  },
+  {
+    "id": 9,
+    "name": "Hot Topic",
+    "desc": "\"Exemplary!\", \"She's the talk of the racing world!\" Builds rapport with Etsuko Otonashi and Director Akikawa faster."
+  },
+  {
+    "id": 10,
+    "name": "Practice Perfect \u25cb",
+    "desc": "She stays focused during practice. Has a decreased chance of failing training."
+  },
+  {
+    "id": 11,
+    "name": "Practice Perfect \u25ce",
+    "desc": "Practice makes perfect! Has a greatly decreased chance of failing training."
+  },
+  {
+    "id": 12,
+    "name": "Under the Weather",
+    "desc": "Some unknown issue is bringing her mind and body down. Has a greatly increased chance of failing training until fall."
+  },
+  {
+    "id": 13,
+    "name": "Shining Brightly",
+    "desc": "Both mind and body are in top condition! Has a decreased chance of failing training."
+  },
+  {
+    "id": 14,
+    "name": "Fan Promise (Hokkaido)",
+    "desc": "Win a race at Sapporo or Hakodate to fulfill her promise and get a boost from her fans."
+  },
+  {
+    "id": 15,
+    "name": "Fan Promise (Hokuto)",
+    "desc": "Win a race at Fukushima or Niigata to fulfill her promise and get a boost from her fans."
+  },
+  {
+    "id": 16,
+    "name": "Fan Promise (Nakayama)",
+    "desc": "Wins a race at Nakayama to fulfill her promise and get a boost from her fans."
+  },
+  {
+    "id": 17,
+    "name": "Fan Promise (Kansai)",
+    "desc": "Win a race at Kyoto or Hanshin to fulfill her promise and get a boost from her fans."
+  },
+  {
+    "id": 18,
+    "name": "Fan Promise (Kokura)",
+    "desc": "Win a race at Kokura to fulfill her promise and get a boost from her fans."
+  },
+  {
+    "id": 19,
+    "name": "Not Ready",
+    "desc": "She's just not quite race-ready... Competing in races may lead to fatigue."
+  }
+]

@@ -1,0 +1,1724 @@
+{
+  "1032": {
+    "uma": "Agnes Tachyon",
+    "some_stats": ["in", ["st", "sp"], "in"],
+    "metabolism_event": "Hamburger Helper!",
+    "slacker_event": "Engrossed in Research!",
+    "events": [
+      {
+        "name": "At Tachyon's Pace",
+        "options": [[["gu", "+10"]], [["sp", "+5"], ["po", "+5"]]]
+      },
+      {
+        "name": "The Strongest Collaborator?!",
+        "options": [[["en", "-20"], ["st", "+15"], ["gu", "+10"]], [["en", "+5"], ["in", "+5"]]]
+      },
+      {
+        "name": "The Pressure of Justice?",
+        "options": [[["in", "+10"], ["pt", "+15"]], [["sk", "+1", 200332]]]
+      },
+      {
+        "name": "Medicine That Makes You Faster?",
+        "options": [[["po", "+5"], ["gu", "+5"]], [["sp", "+5"], ["in", "+5"]]]
+      },
+      {
+        "name": "The Significance of Research",
+        "options": [[["in", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "No Shortcuts",
+        "options": [[["gu", "+10"]], [["in", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "A Gift From the Dark Sky",
+        "options": [[["sp", "+5"], ["po", "+5"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "Body Modification!",
+        "options": [[["po", "+5"], ["in", "+5"]], [["st", "+10"]]]
+      }
+    ]
+  },
+  "1018": {
+    "uma": "Air Groove",
+    "some_stats": ["po", ["po", "sp"], "po"],
+    "metabolism_event": "A Taste of Effort",
+    "slacker_event": "Of Storms and Flowers",
+    "events": [
+      {
+        "name": "Empress and Monarch",
+        "options": [[["po", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Operation: Flowerbed",
+        "options": [[["en", "+5"], ["in", "+5"]], [["en", "-10"], ["sp", "+10"], ["po", "+10"]]]
+      },
+      {
+        "name": "Empress and Emperor",
+        "options": [[["sk", "+1", 200512]], [["mo", "+1"], ["pt", "+15"]]]
+      },
+      {
+        "name": "Seize Her!",
+        "options": [[["en", "+10"]], [["en", "-10"], ["mo", "+1"], ["sp", "+10"]]]
+      },
+      {
+        "name": "Take Good Care of Your Tail",
+        "options": [[["en", "+10"]], [["en", "-10"], ["mo", "+1"], ["po", "+10"]]]
+      },
+      {
+        "name": "Suggestion Box of Freedom",
+        "options": [[["en", "+10"]], [["en", "-10"], ["mo", "+1"], ["in", "+10"]]]
+      },
+      {
+        "name": "A Little Encounter",
+        "options": [[["in", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "Sweet Potato Cake",
+        "options": [[["po", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Imprinted Memories",
+        "options": [[["sp", "+10"]], [["po", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "A Blinking Light Means Stop",
+        "options": [[["in", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Smoldering Silently",
+        "options": [[["st", "+10"]], [["sp", "+10"]]]
+      }
+    ]
+  },
+  "1023": {
+    "uma": "Biwa Hayahide",
+    "some_stats": ["in", ["sp", "gu"], "st"],
+    "metabolism_event": "Banana Fiend \u266a",
+    "slacker_event": "Optimal Glasses",
+    "events": [
+      {
+        "name": "Memories of Cooking and Sisterhood",
+        "options": [[["po", "+10"]], [["st", "+5"], ["in", "+5"]]]
+      },
+      {
+        "name": "A New Side",
+        "options": [[["sp", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Battle With a Raging Dragon",
+        "options": [[["po", "+5"], ["gu", "+10"]], [["sk", "+1", 200052]]]
+      },
+      {
+        "name": "Reading in a Cafe",
+        "options": [[["st", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Sharp Contrast",
+        "options": [[["in", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "Emergency Presentation",
+        "options": [[["in", "+10"]], [["po", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Hide and Seek Master",
+        "options": [[["gu", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Game Theory",
+        "options": [[["in", "+10"]], [["po", "+10"]]]
+      }
+    ]
+  },
+  "1038": {
+    "uma": "Curren Chan",
+    "some_stats": ["sp", ["sp", "gu"], "sp"],
+    "metabolism_event": "Wanna Eat Together?",
+    "slacker_event": "Conveying Cuteness",
+    "events": [
+      {
+        "name": "One, Two, Three, Curren Chan!",
+        "options": [[["sp", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Ms. Worldwide",
+        "options": [[["po", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Thanks for the Lesson \u266a",
+        "options": [[["en", "-10"], ["sp", "+20"]], [["sk", "+1", 200811]]]
+      },
+      {
+        "name": "Making Friends",
+        "options": [[["po", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Making Connections",
+        "options": [[["gu", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Universal Cutie",
+        "options": [[["sp", "+5"], ["po", "+5"]], [["sp", "+10"]], [["sp", "+5"], ["in", "+5"]]]
+      },
+      {
+        "name": "A Nostalgic Flavor",
+        "options": [[["st", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Rattle, Rattle, Clunk",
+        "options": [[["in", "+10"]], [["st", "+10"]]]
+      }
+    ]
+  },
+  "1009": {
+    "uma": "Daiwa Scarlet",
+    "some_stats": ["in", ["gu", "sp"], "in"],
+    "metabolism_event": "Can't Lose Sight of Number One!",
+    "slacker_event": "Enthusiastic Reading",
+    "events": [
+      {
+        "name": "Her",
+        "options": [[["po", "+5"], ["rc", null, 100901]], [["po", "+5"], ["rc", null, 101001]]]
+      },
+      {
+        "name": "Recommended Restaurant",
+        "options": [[["sp", "+5"], ["po", "+5"]], [["gu", "+5"], ["mo", "+1"]]]
+      },
+      {
+        "name": "Advice from an Older Student",
+        "options": [[["sp", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Enjoying Number One",
+        "options": [[["st", "+10"], ["pt", "+15"]], [["sk", "+1", 201072]]]
+      },
+      {
+        "name": "As a Model Student...",
+        "options": [[["in", "+10"]], [["pt", "+30"]]]
+      },
+      {
+        "name": "Just a Little More",
+        "options": [[["pt", "+30"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Under the Evening Star",
+        "options": [[["pt", "+30"]], [["sp", "+5"], ["st", "+5"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Rained On",
+        "options": [[["gu", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "How to Spend a Day Off",
+        "options": [[["en", "+10"]], [["mo", "+1"], ["in", "+5"]]]
+      }
+    ]
+  },
+  "1037": {
+    "uma": "Eishin Flash",
+    "some_stats": ["sp", ["sp", "in"], "sp"],
+    "metabolism_event": "Fried, Crispy, and Fresh!",
+    "slacker_event": "Time to Review the Schedule",
+    "events": [
+      {
+        "name": "Guardians of Nature",
+        "options": [[["st", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "How to Educate Effectively",
+        "options": [[["sp", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "Inspiration to Fly",
+        "options": [[["sp", "+5"], ["st", "+5"], ["po", "+5"]], [["sk", "+1", 200132]]]
+      },
+      {
+        "name": "Flash's Plan Put to the Test",
+        "options": [
+          [
+            ["mo", "+1"],
+            ["fd", null, 4],
+            ["et", null, "\u7d50\u679c\uff1a\u30d5\u30e9\u30c3\u30b7\u30e5\u30d7\u30e9\u30f3"]
+          ], [["no"]]
+        ]
+      },
+      {
+        "name": "Chasing Trends",
+        "options": [[["in", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Immersing in Japanese Tradition",
+        "options": [[["gu", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Acclimating",
+        "options": [[["po", "+10"]], [["gu", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Conveying Sincerity",
+        "options": [[["sp", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Reminiscing at the Freizeitpark",
+        "options": [[["po", "+10"]], [["st", "+10"]]]
+      }
+    ]
+  },
+  "1014": {
+    "uma": "El Condor Pasa",
+    "some_stats": ["po", ["st", "in"], "po"],
+    "metabolism_event": "Hot and Spicy!",
+    "slacker_event": "Forget Something?",
+    "events": [
+      {
+        "name": "A Personalized Mask",
+        "options": [[["sp", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Salsa Roja",
+        "options": [[["st", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Go for the Extra-Large Pizza!",
+        "options": [[["po", "+10"], ["pt", "+15"]], [["sk", "+1", 201142]]]
+      },
+      {
+        "name": "The Wrestler I Admire",
+        "options": [[["st", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Shocking Retirement",
+        "options": [[["gu", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Renewed Resolve",
+        "options": [[["gu", "+10"]], [["st", "+10"]], [["sp", "+5"], ["st", "+5"]]]
+      },
+      {
+        "name": "The Academy at Night",
+        "options": [[["mo", "+1"], ["gu", "+5"]], [["en", "+10"]]]
+      },
+      {
+        "name": "Flower Language",
+        "options": [[["mo", "+1"], ["in", "+5"]], [["en", "+10"]]]
+      }
+    ]
+  },
+  "1005": {
+    "uma": "Fuji Kiseki",
+    "some_stats": ["in", ["sp", "st"], "in"],
+    "metabolism_event": "Go Easy on the Affection",
+    "slacker_event": "As You Wish...",
+    "events": [
+      {
+        "name": "Act 1: Smile",
+        "options": [[["rc", null, 101001], ["gu", "+10"]], [["rc", null, 100701], ["po", "+10"]]]
+      },
+      {
+        "name": "A Gracious Doorkeeper",
+        "options": [[["sp", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "@DREAM_MAKER",
+        "options": [[["po", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Two Superstars Compete",
+        "options": [[["gu", "+10"], ["pt", "+15"]], [["sk", "+1", 201372]]]
+      },
+      {
+        "name": "No Regrets",
+        "options": [[["in", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "For Your Sake Alone",
+        "options": [[["gu", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "The Greatest Blessing in Life",
+        "options": [[["st", "+10"]], [["po", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "One Act from the Wings",
+        "options": [[["gu", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Stargazing",
+        "options": [[["sp", "+10"]], [["po", "+10"]]]
+      }
+    ]
+  },
+  "1040": {
+    "uma": "Gold City",
+    "some_stats": ["sp", ["gu", "in"], "sp"],
+    "metabolism_event": "A Delicious Trap?",
+    "slacker_event": "Early Morning Shoot",
+    "events": [
+      {
+        "name": "City's Salon",
+        "options": [[["gu", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Never Skip Meals",
+        "options": [[["po", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Dorm Quiz Battle",
+        "options": [[["sp", "+10"], ["po", "+5"]], [["sk", "+1", 201072]]]
+      },
+      {
+        "name": "Might as Well",
+        "options": [[["in", "+10"]], [["sp", "+5"], ["pt", "+15"]]]
+      },
+      {
+        "name": "Words Unspoken",
+        "options": [[["st", "+5"], ["po", "+5"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "Barefoot",
+        "options": [[["st", "+10"]], [["sp", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Wanderlust",
+        "options": [[["st", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Yoga Pose!",
+        "options": [[["gu", "+10"]], [["po", "+10"]]]
+      }
+    ]
+  },
+  "1007": {
+    "uma": "Gold Ship",
+    "some_stats": ["st", ["po", "gu"], "st"],
+    "metabolism_event": "Killer Appetite!",
+    "slacker_event": "Into the Sky?",
+    "events": [
+      {
+        "name": "Pair Discount Repeat Offender",
+        "options": [[["gu", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Which Did You Lose?",
+        "options": [[["en", "-10"], ["po", "+20"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "My Part-Time Job Is... Crazy?",
+        "options": [[["st", "+10"], ["pt", "+15"]], [["sk", "+1", 200052]]]
+      },
+      {
+        "name": "The Day After, Voices Hoarse",
+        "options": [[["st", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "This One's For Keeps!",
+        "options": [[["en", "+10"]], [["pt", "+60"], ["sk", "+1", 200142], ["di"], ["pt", "+15"], ["se", null, 2]]]
+      },
+      {
+        "name": "Legend of the Left Pinky",
+        "options": [[["st", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Hello From About 1.5 Billion Years Ago",
+        "options": [[["gu", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "And Then She...",
+        "options": [[["sp", "+10"]], [["gu", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "A Lovely Place",
+        "options": [[["st", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Nighttime Park Visit",
+        "options": [[["gu", "+10"]], [["sp", "+10"]]]
+      }
+    ]
+  },
+  "1011": {
+    "uma": "Grass Wonder",
+    "some_stats": ["in", ["po", "gu"], "in"],
+    "metabolism_event": "Together for Tea",
+    "slacker_event": "Help! Pre-Test Panic",
+    "events": [
+      {
+        "name": "Errands Have Perks",
+        "options": [[["sp", "+5"], ["st", "+5"]], [["en", "+5"], ["in", "+5"]]]
+      },
+      {
+        "name": "Beauteaful",
+        "options": [[["in", "+5"], ["pt", "+15"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Tracen Karuta Queen",
+        "options": [[["sp", "+10"], ["in", "+5"]], [["sk", "+1", 200282]]]
+      },
+      {
+        "name": "In Search of Refreshment",
+        "options": [[["mo", "-1"], ["gu", "+25"]], [["mo", "-1"], ["in", "+25"]]]
+      },
+      {
+        "name": "Yamato Nadeshiko",
+        "options": [[["po", "+5"], ["in", "+5"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Childhoods Apart",
+        "options": [[["gu", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Nadeshiko Gal",
+        "options": [[["po", "+10"]], [["in", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Childhood Dream",
+        "options": [[["sp", "+5"], ["gu", "+5"]], [["st", "+5"], ["in", "+5"]]]
+      },
+      {
+        "name": "Flower Vase",
+        "options": [[["gu", "+5"], ["in", "+5"]], [["sp", "+5"], ["st", "+5"]]]
+      }
+    ]
+  },
+  "1052": {
+    "uma": "Haru Urara",
+    "some_stats": ["gu", ["sp", "in"], "gu"],
+    "metabolism_event": "The Final Boss... Spe!",
+    "slacker_event": "Mmm-Mmm Temptation!",
+    "events": [
+      {
+        "name": "Arm-Wrestling Contest",
+        "options": [[["in", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Looking for Something Important",
+        "options": [[["en", "-10"], ["gu", "+20"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Sand Training!",
+        "options": [[["gu", "+10"], ["pt", "+15"]], [["en", "+15"]]]
+      },
+      {
+        "name": "A Little Detour!",
+        "options": [[["pt", "+30"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Parks Are Fun!",
+        "options": [[["sp", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Secret Day Off Plan!",
+        "options": [[["sp", "+10"]], [["po", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "So Cool!",
+        "options": [[["pt", "+30"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Forgot to Eat!",
+        "options": [[["gu", "+10"]], [["st", "+10"]]]
+      }
+    ]
+  },
+  "1012": {
+    "uma": "Hishi Amazon",
+    "some_stats": ["po", ["po", "in"], "sp"],
+    "metabolism_event": "The Magic of Sweets?",
+    "slacker_event": "A Nostalgic Flavor",
+    "events": [
+      {
+        "name": "Hishiama's Dorm-Leader Breakfast",
+        "options": [[["sp", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Hishiama's Needlework",
+        "options": [[["po", "+10"]], [["st", "+5"], ["gu", "+5"]]]
+      },
+      {
+        "name": "Hishiama's Foraging",
+        "options": [[["po", "+10"], ["pt", "+15"]], [["sk", "+1", 200512]]]
+      },
+      {
+        "name": "Blazing Memories",
+        "options": [[["po", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Cool and Fiery Sisters",
+        "options": [[["sp", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Torrential Passion",
+        "options": [[["sp", "+10"]], [["in", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Hishiama's Special View",
+        "options": [[["sp", "+5"], ["po", "+5"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "Hishiama and the Arts",
+        "options": [[["sp", "+10"]], [["st", "+10"]]]
+      }
+    ]
+  },
+  "1061": {
+    "uma": "King Halo",
+    "some_stats": ["gu", ["gu", "sp"], ""],
+    "metabolism_event": "Sweet Tooth Temptation",
+    "slacker_event": "First-Rate... Predictions?",
+    "events": [
+      {
+        "name": "Movies Are Full of Learning Opportunities",
+        "options": [[["sp", "+5"], ["gu", "+5"]], [["st", "+10"]]]
+      },
+      {
+        "name": "The King Knows No Exhaustion",
+        "options": [[["en", "+5"], ["mo", "+1", null, true]], [["po", "+10"]]]
+      },
+      {
+        "name": "First-Rate in Studies Too",
+        "options": [[["in", "+10"], ["pt", "+15"]], [["sk", "+1", 200612]]]
+      },
+      {
+        "name": "After-School Soda",
+        "options": [[["gu", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Three Heads Are Better than One",
+        "options": [[["in", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "First-Rate Spot",
+        "options": [[["gu", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "First-Rate Harvest",
+        "options": [[["po", "+5"], ["gu", "+5"]], [["sp", "+5"], ["st", "+5"]]]
+      },
+      {
+        "name": "First-Rate Terms",
+        "options": [[["po", "+10"]], [["in", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "Crowds Are No Problem",
+        "options": [[["sp", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Breaking Curfew is Second-Rate",
+        "options": [[["gu", "+5"], ["in", "+5"]], [["sp", "+5"], ["po", "+5"]]]
+      }
+    ]
+  },
+  "1004": {
+    "uma": "Maruzensky",
+    "some_stats": ["sp", ["sp", "in"], "sp"],
+    "metabolism_event": "Nostalgia Fever \u2606",
+    "slacker_event": "Shockingly Careless",
+    "events": [
+      {
+        "name": "Hot Rod",
+        "options": [[["sp", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Let's Play \u266a",
+        "options": [[["en", "+10"]], [["en", "-5"], ["po", "+10"], ["gu", "+5"]]]
+      },
+      {
+        "name": "A Lady's Style \u2606",
+        "options": [[["sp", "+5"], ["pt", "+10"], ["mo", "+1"]], [["sk", "+1", 200982]]]
+      },
+      {
+        "name": "Let's Cook!",
+        "options": [[["sp", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "The Road to a Rad Victory!",
+        "options": [[["st", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Down to Dance!",
+        "options": [[["sp", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "The Secret to Supporting Each Other",
+        "options": [[["sp", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Even Role Models Get Lonely",
+        "options": [[["st", "+5"], ["gu", "+5"]], [["sp", "+5"], ["po", "+5"]]]
+      },
+      {
+        "name": "Take the Wheel",
+        "options": [[["po", "+10"]], [["gu", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Meeting New People Is Trendy \u2606",
+        "options": [[["gu", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "The Fun Never Stops \u266a",
+        "options": [[["sp", "+5"], ["in", "+5"]], [["st", "+5"], ["po", "+5"]]]
+      }
+    ]
+  },
+  "1056": {
+    "uma": "Matikanefukukitaru",
+    "some_stats": ["in", ["po", "in"], "in"],
+    "metabolism_event": "Seven Gods of Fortune Fine Food Tour",
+    "slacker_event": "A Rush at Luck",
+    "events": [
+      {
+        "name": "Cursed Camera",
+        "options": [[["in", "+10"]], [["pt", "+30"]]]
+      },
+      {
+        "name": "Manhattan's Dream",
+        "options": [[["sk", "+1", 200851]], [["st", "+10"]]]
+      },
+      {
+        "name": "Pretty Gunslingers",
+        "options": [[["pt", "+15"], ["mo", "+1"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Fukukitaru's Protection against Misfortune",
+        "options": [[["gu", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Punch in a Pinch",
+        "options": [[["sp", "+10"]], [["st", "+5"], ["in", "+5"]]]
+      },
+      {
+        "name": "Fukukitaru's Unique Good-Luck Spell",
+        "options": [[["sp", "+5"], ["gu", "+5"]], [["st", "+5"], ["po", "+5"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Taking the Plunge",
+        "options": [[["st", "+10"]], [["sp", "+5"], ["in", "+5"]]]
+      },
+      {
+        "name": "Shrine Visit",
+        "options": [[["po", "+5"], ["gu", "+5"]], [["sp", "+5"], ["st", "+5"]]]
+      }
+    ]
+  },
+  "1024": {
+    "uma": "Mayano Top Gun",
+    "some_stats": ["st", ["gu", "sp"], "st"],
+    "metabolism_event": "Hearty Chanko! \u2606",
+    "slacker_event": "Chase Me \u2606",
+    "events": [
+      {
+        "name": "Maya Will Teach You \u2606",
+        "options": [[["po", "+5"], ["gu", "+5"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Tips from a Top Model!",
+        "options": [[["en", "-10"], ["st", "+20"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Maya's Race Class \u2606",
+        "options": [[["st", "+10"], ["pt", "+15"]], [["sk", "+1", 200362]]]
+      },
+      {
+        "name": "Maya's Exciting \u2606 Livestream!",
+        "options": [[["st", "+5"], ["po", "+5"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "Maya's Euphoric \u2606 Livestream!",
+        "options": [[["sp", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Maya's Twinkly \u2606 Determination!",
+        "options": [[["sp", "+5"], ["st", "+5"]], [["po", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Maya's Special Someone!",
+        "options": [[["sp", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "Wish on a Star",
+        "options": [[["in", "+10"]], [["sp", "+10"]]]
+      }
+    ]
+  },
+  "1058": {
+    "uma": "Meisho Doto",
+    "some_stats": ["gu", ["gu", "po"], "gu"],
+    "metabolism_event": "Monumental Calories",
+    "slacker_event": "Lucky Item",
+    "events": [
+      {
+        "name": "Best Shot",
+        "options": [[["in", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "First Step to Flawlessness",
+        "options": [[["gu", "+10"]], [["en", "+10"]]]
+      },
+      {
+        "name": "Words of Aid",
+        "options": [[["po", "+10"], ["pt", "+15"]], [["sk", "+1", 201362]]]
+      },
+      {
+        "name": "Positively Tickled!",
+        "options": [
+          [["en", "-5"], ["mo", "+1"], ["rs", "+10", 2], ["di"], ["en", "-10"], ["gu", "+10"]], [["en", "+10"]]
+        ]
+      },
+      {
+        "name": "Pack a Punch",
+        "options": [[["po", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Lost and Alone",
+        "options": [[["st", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "Are My Feelings Reaching You?",
+        "options": [[["po", "+10"]], [["sp", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "Twilight Ice Cream",
+        "options": [[["in", "+10"]], [["sp", "+5"], ["st", "+5"]]]
+      },
+      {
+        "name": "Equivalent Exchange?",
+        "options": [[["sp", "+10"]], [["in", "+10"]]]
+      }
+    ]
+  },
+  "1013": {
+    "uma": "Mejiro McQueen",
+    "some_stats": ["st", ["st", "in"], "st"],
+    "metabolism_event": "Attack of the Chestnut Feast!",
+    "slacker_event": "Attack of the Space Baseball Zombies!",
+    "events": [
+      {
+        "name": "Queen of the Island",
+        "options": [[["sp", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "It's Called a Sea Pineapple!",
+        "options": [[["pt", "+30"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Cooking Up Memories",
+        "options": [[["en", "+15"]], [["sk", "+1", 200532]]]
+      },
+      {
+        "name": "The Allure of Racecourse Food",
+        "options": [
+          [
+            ["en", "+30"],
+            ["pt", "+10"],
+            ["di"],
+            ["en", "+30"],
+            ["pt", "+10"],
+            ["sp", "-5"],
+            ["po", "+5"],
+            ["se", null, 4]
+          ], [["gu", "+15"], ["pt", "+5"]]
+        ]
+      },
+      {
+        "name": "Two Tickets for the Silver Screen",
+        "options": [[["st", "+10"]], [["in", "+5"], ["pt", "+15"]]]
+      },
+      {
+        "name": "An Excited Young Lady",
+        "options": [[["gu", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Endless Kingdom",
+        "options": [[["st", "+10"]], [["in", "+10"]], [["sp", "+5"], ["po", "+5"]]]
+      },
+      {
+        "name": "Bargain Find",
+        "options": [[["sp", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "Three Ramen Bowls' Worth of Temptation",
+        "options": [[["pt", "+30"]], [["sp", "+5"], ["st", "+5"]]]
+      }
+    ]
+  },
+  "1027": {
+    "uma": "Mejiro Ryan",
+    "some_stats": ["po", ["po", "sp"], "po"],
+    "metabolism_event": "Rest Day",
+    "slacker_event": "Training for... Love Stories?!",
+    "events": [
+      {
+        "name": "Muscle Jealousy",
+        "options": [[["gu", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "The Pony Girl and the Wolf Prince",
+        "options": [[["en", "+5"], ["st", "+5"]], [["en", "+5"], ["sp", "+5"]]]
+      },
+      {
+        "name": "Real Gains",
+        "options": [[["po", "+10"], ["pt", "+15"]], [["sk", "+1", 200162]]]
+      },
+      {
+        "name": "Nerve-Racking Rest Time",
+        "options": [[["st", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Flush with Feelings",
+        "options": [[["in", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "With Relaxation and Trust Comes...",
+        "options": [[["sp", "+10"]], [["st", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Ryan to the Rescue!",
+        "options": [[["po", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "The Little Fans of the Umadol",
+        "options": [[["po", "+10"]], [["in", "+10"]]]
+      }
+    ]
+  },
+  "1026": {
+    "uma": "Mihono Bourbon",
+    "some_stats": ["po", ["pt", "st"], "po"],
+    "metabolism_event": "The Perfect Dessert",
+    "slacker_event": "Cheerful Shopping",
+    "events": [
+      {
+        "name": "Operation: Execute Orders",
+        "options": [[["st", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Operation: Extra Classes",
+        "options": [[["en", "+10"], ["mo", "+1"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Operation: Excursion Trouble",
+        "options": [[["st", "+10"], ["pt", "+15"]], [["sk", "+1", 200162]]]
+      },
+      {
+        "name": "Brutal Training",
+        "options": [[["en", "-10"], ["po", "+5/+20"], ["pt", "+5/+10"]], [["en", "+5"]]]
+      },
+      {
+        "name": "Let's Make Memories",
+        "options": [[["sp", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "Bourbon's Challenge?",
+        "options": [[["po", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "You're Irreplaceable to Me",
+        "options": [[["st", "+10"]], [["sp", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Operation: Dance Fever",
+        "options": [[["st", "+5"], ["gu", "+5"]], [["st", "+5"], ["in", "+5"]]]
+      },
+      {
+        "name": "Operation: Festival Fun",
+        "options": [[["po", "+10"]], [["st", "+5"], ["gu", "+5"]]]
+      }
+    ]
+  },
+  "1016": {
+    "uma": "Narita Brian",
+    "some_stats": ["po", ["st", "in"], "po"],
+    "metabolism_event": "Carnivore",
+    "slacker_event": "Perfect Weather",
+    "events": [
+      {
+        "name": "Aspiration",
+        "options": [[["po", "+10"]], [["en", "-10"], ["po", "+20"]]]
+      },
+      {
+        "name": "Transcendence",
+        "options": [[["po", "+10"]], [["st", "+5"], ["gu", "+5"]]]
+      },
+      {
+        "name": "Ability",
+        "options": [[["sp", "+15"]], [["sk", "+1", 201202]]]
+      },
+      {
+        "name": "Starving Warriors",
+        "options": [
+          [["en", "+5"], ["in", "+10"]],
+          [["en", "-10"], ["mo", "+1"], ["sp", "+25"], ["di"], ["en", "-10"], ["sp", "+10"]],
+          [["en", "-10"], ["mo", "+1"], ["st", "+25"], ["di"], ["en", "-10"], ["st", "+10"]],
+          [["en", "-10"], ["mo", "+1"], ["po", "+25"], ["di"], ["en", "-10"], ["po", "+10"]]
+        ]
+      },
+      {
+        "name": "A Lone Wolf's Diet",
+        "options": [[["sp", "+5"], ["po", "+5"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Caught by Brian!",
+        "options": [[["st", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "Digging In",
+        "options": [[["sp", "+10"]], [["st", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "A Lone Wolf Hunts Alone",
+        "options": [[["st", "+5"], ["gu", "+5"]], [["po", "+5"], ["in", "+5"]]]
+      },
+      {
+        "name": "Breakthrough",
+        "options": [[["st", "+10"]], [["in", "+10"]]]
+      }
+    ]
+  },
+  "1050": {
+    "uma": "Narita Taishin",
+    "some_stats": ["sp", ["gu", "in"], "sp"],
+    "metabolism_event": "Nutritional Food is the Food of Hope?",
+    "slacker_event": "Tranquil Time with Taishin",
+    "events": [
+      {
+        "name": "Report Submitted",
+        "options": [[["sp", "+10"]], [["st", "+5"], ["po", "+5"]]]
+      },
+      {
+        "name": "Unknown Music",
+        "options": [[["po", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Distance",
+        "options": [[["mo", "+1"], ["gu", "+10"]], [["sk", "+1", 200622]]]
+      },
+      {
+        "name": "Extra Training to Blow Off Steam",
+        "options": [
+          [["en", "+10"]],
+          [["en", "-10"], ["pt", "+25"]],
+          [["en", "-15"], ["rs", "+10", 1], ["di"], ["en", "-15"], ["mo", "+1"], ["rs", "+15", 2]]
+        ]
+      },
+      {
+        "name": "Extra Training to De-stress?",
+        "options": [
+          [["en", "+10"]],
+          [["en", "-10"], ["pt", "+25"]],
+          [["en", "-15"], ["rs", "+10", 1], ["di"], ["en", "-15"], ["mo", "+1"], ["rs", "+15", 2]]
+        ]
+      },
+      {
+        "name": "git gud noob",
+        "options": [[["st", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "ggez",
+        "options": [[["po", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "ggwp",
+        "options": [[["gu", "+10"]], [["in", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "The Taciturn Two",
+        "options": [[["st", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Open the Cage Door with Your Own Hands",
+        "options": [[["st", "+5"], ["gu", "+5"]], [["sp", "+5"], ["po", "+5"]]]
+      }
+    ]
+  },
+  "1060": {
+    "uma": "Nice Nature",
+    "some_stats": ["in", ["sp", "gu"], "in"],
+    "metabolism_event": "A Little Can't Hurt",
+    "slacker_event": "The Bronze Collector's Target",
+    "events": [
+      {
+        "name": "Rainy-Day Fun",
+        "options": [[["in", "+10"]], [["en", "-10"], ["st", "+10"], ["gu", "+10"]]]
+      },
+      {
+        "name": "Not My Style",
+        "options": [[["en", "+5"], ["mo", "+1"]], [["sp", "+5"], ["po", "+5"]]]
+      },
+      {
+        "name": "Whirlwind Advice",
+        "options": [[["sk", "+1", 201432]], [["sp", "+5"], ["st", "+5"], ["po", "+5"]]]
+      },
+      {
+        "name": "A Phone Call from Mom",
+        "options": [[["st", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Once in a While",
+        "options": [[["st", "+5"], ["gu", "+5"]], [["st", "+5"], ["po", "+5"]]]
+      },
+      {
+        "name": "Bittersweet Twilight",
+        "options": [[["sp", "+10"]], [["gu", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Snapshot of Emotions",
+        "options": [[["sp", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Let's Watch the Fish",
+        "options": [[["gu", "+10"]], [["sp", "+10"]]]
+      }
+    ]
+  },
+  "1006": {
+    "uma": "Oguri Cap",
+    "some_stats": ["po", ["po", "sp"], "po"],
+    "metabolism_event": "Bottomless Pit",
+    "slacker_event": "Oguri and the Fluffy Feline",
+    "events": [
+      {
+        "name": "Lost Umamusume",
+        "options": [[["gu", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Field Workout",
+        "options": [[["gu", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Running on Full",
+        "options": [[["en", "+10"], ["pt", "+15"]], [["sk", "+1", 200042]]]
+      },
+      {
+        "name": "Oguri's Gluttony Championship",
+        "options": [
+          [
+            ["en", "+30"],
+            ["po", "+10"],
+            ["pt", "+10"],
+            ["di"],
+            ["en", "+30"],
+            ["pt", "+10"],
+            ["sp", "-5"],
+            ["po", "+5"],
+            ["se", null, 4]
+          ], [["en", "+10"], ["po", "+5"], ["pt", "+5"]]
+        ]
+      },
+      {
+        "name": "Oguri Makes a Resolution",
+        "options": [[["sp", "+5"], ["in", "+5"]], [["st", "+5"], ["gu", "+5"]]]
+      },
+      {
+        "name": "Oguri Perseveres",
+        "options": [[["gu", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Oguri Matures",
+        "options": [[["in", "+10"]], [["st", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Something Smells Good!",
+        "options": [[["sp", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "High-Level Rival",
+        "options": [[["sp", "+5"], ["st", "+5"]], [["po", "+5"], ["in", "+5"]]]
+      }
+    ]
+  },
+  "1030": {
+    "uma": "Rice Shower",
+    "some_stats": ["gu", ["st", "sp"], "gu"],
+    "metabolism_event": "A Page about Apples",
+    "slacker_event": "A Page about Books",
+    "events": [
+      {
+        "name": "Training Inspiration",
+        "options": [[["en", "-10"], ["gu", "+20"]], [["en", "+5"], ["pt", "+15"]]]
+      },
+      {
+        "name": "Wonderful New Worlds",
+        "options": [[["st", "+10"]], [["sp", "+5"], ["in", "+5"]]]
+      },
+      {
+        "name": "Looking on the Bright Side",
+        "options": [[["st", "+5"], ["gu", "+10"]], [["sk", "+1", 200152]]]
+      },
+      {
+        "name": "Even When the Ladybugs Are Gone",
+        "options": [[["st", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Even When Clouds Cover the Sky",
+        "options": [[["sp", "+5"], ["po", "+5"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "My Sun",
+        "options": [[["gu", "+5"], ["in", "+5"]], [["sp", "+5"], ["po", "+5"]], [["st", "+10"]]]
+      },
+      {
+        "name": "I've Got This!",
+        "options": [[["gu", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "A Page about Sunsets",
+        "options": [[["po", "+5"], ["gu", "+5"]], [["st", "+5"], ["in", "+5"]]]
+      }
+    ]
+  },
+  "1041": {
+    "uma": "Sakura Bakushin O",
+    "some_stats": ["sp", ["gu", "in"], "sp"],
+    "metabolism_event": "Bakushin?! Class?!",
+    "slacker_event": "The Class Rep Is Very Busy!",
+    "events": [
+      {
+        "name": "The Bakushin Book!",
+        "options": [[["in", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "The Voices of the Students",
+        "options": [[["en", "-10"], ["st", "+10"], ["po", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Solving Riddles, Bakushin Style!",
+        "options": [[["gu", "+10"], ["pt", "+15"]], [["sk", "+1", 200042]]]
+      },
+      {
+        "name": "Bakushin-ing with a Classmate!",
+        "options": [[["po", "+5"], ["gu", "+5"]], [["sp", "+5"], ["in", "+5"]]]
+      },
+      {
+        "name": "The Best Bakushin!",
+        "options": [[["in", "+10"]], [["st", "+5"], ["gu", "+5"]]]
+      },
+      {
+        "name": "Bakushin, Now and Forever!",
+        "options": [[["sp", "+10"]], [["gu", "+5"], ["in", "+5"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Together with Someone Important!",
+        "options": [[["gu", "+10"]], [["sp", "+5"], ["st", "+5"]]]
+      },
+      {
+        "name": "The Speed King",
+        "options": [[["po", "+5"], ["in", "+5"]], [["st", "+10"]]]
+      }
+    ]
+  },
+  "1020": {
+    "uma": "Seiun Sky",
+    "some_stats": ["sp", ["gu", "st"], "po"],
+    "metabolism_event": "I Can Unwind Outdoors Too",
+    "slacker_event": "An Angler's Disgrace",
+    "events": [
+      {
+        "name": "Is Cat Language Real?",
+        "options": [[["st", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Shady Dealings",
+        "options": [[["sp", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Sei's Escape Plan",
+        "options": [[["sp", "+10"], ["pt", "+15"]], [["sk", "+1", 200891]]]
+      },
+      {
+        "name": "Sunny Day Standoff",
+        "options": [
+          [["sp", "+20"], ["di"], ["sp", "+5"], ["mo", "-1"]],
+          [["en", "+20"], ["sk", "+1", 200742], ["di"], ["en", "+10"], ["se", null, 2]],
+          [["en", "+5"], ["sp", "+5"]]
+        ]
+      },
+      {
+        "name": "Cat Expert",
+        "options": [[["in", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Cat Patrol",
+        "options": [[["st", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "Goodbye, Cat",
+        "options": [[["in", "+10"]], [["st", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Nap Master",
+        "options": [[["st", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Cloudy, Followed By...",
+        "options": [[["gu", "+10"]], [["sp", "+10"]]]
+      }
+    ]
+  },
+  "1002": {
+    "uma": "Silence Suzuka",
+    "some_stats": ["sp", ["in", "gu"], "sp"],
+    "metabolism_event": "White Temptation",
+    "slacker_event": "Naptime Escape",
+    "events": [
+      {
+        "name": "Teaching Suzuka's Style",
+        "options": [[["sp", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Party Time",
+        "options": [[["en", "+10"]], [["st", "+5"], ["po", "+5"]]]
+      },
+      {
+        "name": "On My Heels",
+        "options": [[["sp", "+5"], ["pt", "+15"]], [["sk", "+1", 200022]]]
+      },
+      {
+        "name": "My Little Snowscape",
+        "options": [[["st", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "To Make You Happy",
+        "options": [[["po", "+10"]], [["sp", "+5"], ["gu", "+5"]]]
+      },
+      {
+        "name": "Our Little Snowscape",
+        "options": [[["st", "+10"]], [["sp", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "How to Spend a Rainy Day",
+        "options": [[["gu", "+10"]], [["sp", "+5"], ["in", "+5"]]]
+      },
+      {
+        "name": "Are They Compatible?",
+        "options": [[["po", "+5"], ["gu", "+5"]], [["st", "+10"]]]
+      }
+    ]
+  },
+  "1046": {
+    "uma": "Smart Falcon",
+    "some_stats": ["sp", ["gu", "in"], "po"],
+    "metabolism_event": "Cuteness \u2606 Research",
+    "slacker_event": "Full of Cuteness \u2606",
+    "events": [
+      {
+        "name": "Studying Umadols?",
+        "options": [[["po", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Heart-Pounding \u2606 Situation",
+        "options": [[["po", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Umadol Spirit \u2606 Ignited",
+        "options": [[["st", "+10"], ["gu", "+10"]], [["sk", "+1", 201272]]]
+      },
+      {
+        "name": "Test Recovery \u2606",
+        "options": [[["in", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "A Thank-You Gift for You \u266a",
+        "options": [[["sp", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Memory \u2606 Lane",
+        "options": [[["po", "+10"]], [["gu", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Sharing \u2606 Memories",
+        "options": [[["st", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "Location \u2606 Scouting",
+        "options": [[["in", "+10"]], [["po", "+10"]]]
+      }
+    ]
+  },
+  "1001": {
+    "uma": "Special Week",
+    "some_stats": ["st", ["gu", "st"], "st"],
+    "metabolism_event": "Putting It Away at the Cafeteria",
+    "slacker_event": "A Place I Miss...",
+    "events": [
+      {
+        "name": "A Beautiful Day for Tennis",
+        "options": [[["sp", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Karaoke Connoisseur \u266a",
+        "options": [[["en", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Early Afternoon Payback",
+        "options": [[["en", "+5"], ["in", "+5"]], [["sk", "+1", 200472]]]
+      },
+      {
+        "name": "\u7279\u5225\u9031\u4e0d\u70ba\u4eba\u77e5\u7684\u4e00\u9762",
+        "options": [
+          [
+            ["en", "+30"],
+            ["po", "+10"],
+            ["pt", "+10"],
+            ["di"],
+            ["en", "+30"],
+            ["sp", "-5"],
+            ["po", "+15"],
+            ["pt", "+10"],
+            ["se", null, 4]
+          ], [["en", "+10"], ["po", "+5"], ["pt", "+5"]], [["fe"], ["di"], ["fe"], ["sp", "-5"], ["se", null, 4]]
+        ]
+      },
+      {
+        "name": "Because It's Special",
+        "options": [[["st", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "A Place I Want to Take You",
+        "options": [[["in", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Someone I Respect",
+        "options": [[["pt", "+30"]], [["st", "+5"], ["gu", "+5"]], [["sp", "+5"], ["po", "+5"]]]
+      },
+      {
+        "name": "Just a Little More",
+        "options": [[["sk", "+1", 200512]], [["sk", "+1", 200332]]]
+      },
+      {
+        "name": "Research Fanatic",
+        "options": [[["sk", "+1", 200032]], [["sk", "+1", 200042]]]
+      }
+    ]
+  },
+  "1045": {
+    "uma": "Super Creek",
+    "some_stats": ["st", ["st", "sp"], "st"],
+    "metabolism_event": "For My Friends",
+    "slacker_event": "I Feel Like Cooking",
+    "events": [
+      {
+        "name": "One-Day Experience \u2606 Ceramics Class",
+        "options": [[["sp", "+5"], ["in", "+5"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Find the Lost Child!",
+        "options": [[["en", "-10"], ["st", "+10"], ["po", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "A Dangerous Treat",
+        "options": [[["gu", "+10"], ["pt", "+15"]], [["sk", "+1", 200352]]]
+      },
+      {
+        "name": "Sweet Nighttime Temptation",
+        "options": [
+          [["en", "+30"], ["sp", "+10"], ["pt", "+10"], ["mo", "-1", null, true], ["se", null, 4, true]],
+          [["en", "+10"], ["sp", "+5"], ["pt", "+5"]]
+        ]
+      },
+      {
+        "name": "Is Relaxing Being Spoiled?",
+        "options": [[["st", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Dispel Your Anxieties",
+        "options": [[["po", "+10"]], [["sp", "+5"], ["gu", "+5"]]]
+      },
+      {
+        "name": "Let's Share",
+        "options": [[["st", "+10"]], [["sp", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Rough Massage!",
+        "options": [[["gu", "+10"]], [["sp", "+5"], ["in", "+5"]]]
+      },
+      {
+        "name": "Stargazing is Better Together",
+        "options": [[["po", "+5"], ["gu", "+5"]], [["st", "+10"]]]
+      }
+    ]
+  },
+  "1017": {
+    "uma": "Symboli Rudolf",
+    "some_stats": ["in", ["in", "po"], "in"],
+    "metabolism_event": "The Emperor's Satiation",
+    "slacker_event": "The Emperor's Blunder",
+    "events": [
+      {
+        "name": "Those Who March Forth",
+        "options": [[["sp", "+5"], ["po", "+5"]], [["st", "+5"], ["gu", "+5"]]]
+      },
+      {
+        "name": "The Emperor's Social Studies",
+        "options": [[["en", "-10"], ["st", "+10"], ["po", "+10"]], [["in", "+5"], ["pt", "+15"]]]
+      },
+      {
+        "name": "The Emperor's Spare Time",
+        "options": [[["in", "+10"], ["pt", "+15"]], [["sk", "+1", 200232]]]
+      },
+      {
+        "name": "At Any Time",
+        "options": [[["en", "-10"], ["gu", "+20"], ["bo", "+10", 9002]], [["en", "+10"]]]
+      },
+      {
+        "name": "Sudden Kindness",
+        "options": [[["en", "-10"], ["st", "+20"], ["bo", "+10", 9002]], [["en", "+10"]]]
+      },
+      {
+        "name": "As Good As My Word",
+        "options": [[["en", "-10"], ["po", "+20"], ["bo", "+10", 9002]], [["en", "+10"]]]
+      },
+      {
+        "name": "Birds of a Feather",
+        "options": [[["sp", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Well-Earned Respect",
+        "options": [[["in", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "A Clear and Beautiful Night",
+        "options": [[["sp", "+10"]], [["in", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "The Emperor's Daily Routine",
+        "options": [[["po", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "The Emperor's Path",
+        "options": [[["in", "+10"]], [["po", "+10"]]]
+      }
+    ]
+  },
+  "1010": {
+    "uma": "Taiki Shuttle",
+    "some_stats": ["sp", ["po", "sp"], "sp"],
+    "metabolism_event": "Meaty Heaven",
+    "slacker_event": "Friendly Distraction",
+    "events": [
+      {
+        "name": "Hide-and-Seek",
+        "options": [[["sp", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "Embracing Guidance",
+        "options": [[["po", "+10"]], [["en", "+10"]]]
+      },
+      {
+        "name": "Harvest Festival",
+        "options": [[["po", "+10"], ["pt", "+15"]], [["sk", "+1", 200582]]]
+      },
+      {
+        "name": "Serial Riddler",
+        "options": [[["mo", "+1"], ["st", "+5"], ["po", "+10"], ["di"], ["mo", "-1"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Taste of Home",
+        "options": [[["mo", "+1"], ["sp", "+10"], ["po", "+5"], ["di"], ["mo", "-1"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Rainy Power",
+        "options": [[["po", "+10"]], [["pt", "+30"]]]
+      },
+      {
+        "name": "Rainy Choice",
+        "options": [[["sp", "+5"], ["gu", "+5"]], [["st", "+5"], ["in", "+5"]]]
+      },
+      {
+        "name": "Rainy Rescue",
+        "options": [[["pt", "+30"]], [["po", "+5"], ["in", "+5"]], [["sp", "+5"], ["gu", "+5"]]]
+      },
+      {
+        "name": "Let's Patrol!",
+        "options": [[["po", "+10"]], [["en", "+10"]]]
+      },
+      {
+        "name": "Going Home Together",
+        "options": [[["mo", "+1"], ["sp", "+5"]], [["mo", "+1"], ["st", "+5"]]]
+      }
+    ]
+  },
+  "1015": {
+    "uma": "TM Opera O",
+    "some_stats": ["po", ["st", "sp"], "gu"],
+    "metabolism_event": "Battle of Kings: The Great Ramen War",
+    "slacker_event": "Floral Dialogue",
+    "events": [
+      {
+        "name": "Fantastic Voyeur",
+        "options": [[["po", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Blinding Beauty",
+        "options": [[["en", "-10"], ["po", "+20"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Bring Me Your Finest",
+        "options": [[["sp", "+10"], ["pt", "+15"]], [["sk", "+1", 200142]]]
+      },
+      {
+        "name": "The Princess in Pajamas",
+        "options": [[["sp", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "What the Mirror Reflects",
+        "options": [[["in", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "My Radiance is Yours",
+        "options": [[["po", "+10"]], [["gu", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Maintaining Magnificence",
+        "options": [[["sp", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Evening Opera O Theater",
+        "options": [[["po", "+10"]], [["en", "+10"]]]
+      }
+    ]
+  },
+  "1003": {
+    "uma": "Tokai Teio",
+    "some_stats": ["gu", ["st", "po"], ""],
+    "metabolism_event": "Secret to Strength",
+    "slacker_event": "Teio's Got This \u266a",
+    "events": [
+      {
+        "name": "Empress vs Monarch",
+        "options": [[["gu", "+10"]], [["pt", "+30"]]]
+      },
+      {
+        "name": "Cupcakes for All",
+        "options": [[["en", "+5"], ["mo", "+1"]], [["sp", "+5"], ["po", "+5"]]]
+      },
+      {
+        "name": "Teio's Warrior Training",
+        "options": [[["gu", "+10"], ["pt", "+15"]], [["sk", "+1", 200582]]]
+      },
+      {
+        "name": "Karaoke Power?",
+        "options": [[["gu", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Teio, an Umadol?!",
+        "options": [[["po", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "I Got Praised!",
+        "options": [[["st", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "I Got Scolded!",
+        "options": [[["in", "+10"]], [["po", "+5"], ["gu", "+5"]]]
+      },
+      {
+        "name": "I Figured It Out!",
+        "options": [[["sp", "+5"], ["st", "+5"]], [["gu", "+5"], ["in", "+5"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Grown-Up Time",
+        "options": [[["gu", "+10"]], [["in", "+10"]]]
+      },
+      {
+        "name": "Punny Prez",
+        "options": [[["st", "+5"], ["po", "+5"]], [["sp", "+10"]]]
+      }
+    ]
+  },
+  "1008": {
+    "uma": "Vodka",
+    "some_stats": ["sp", ["gu", "st"], "sp"],
+    "metabolism_event": "Awkward Honesty",
+    "slacker_event": "Hot Ride",
+    "events": [
+      {
+        "name": "Like a Kid",
+        "options": [[["sp", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Challenging Fate",
+        "options": [[["st", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "Showdown by the River!",
+        "options": [[["in", "+10"], ["pt", "+15"]], [["sk", "+1", 201052]]]
+      },
+      {
+        "name": "\u7d42\u69752\u90781",
+        "options": [
+          [["en", "-10"], ["st", "+5"], ["gu", "+5"], ["di"], ["en", "+10"], ["st", "+15"], ["gu", "+15"]],
+          [["en", "+5"], ["mo", "+1"]]
+        ]
+      },
+      {
+        "name": "The Standards of Coolness",
+        "options": [[["in", "+10"]], [["gu", "+10"]]]
+      },
+      {
+        "name": "Ring Out, Passionate Sound!",
+        "options": [[["sp", "+10"]], [["st", "+10"]]]
+      },
+      {
+        "name": "The Way of Cool",
+        "options": [[["po", "+10"]], [["sp", "+10"]], [["st", "+5"], ["gu", "+5"]]]
+      },
+      {
+        "name": "Let's Take a Little Detour",
+        "options": [[["sp", "+10"]], [["en", "+5"], ["mo", "+1"]]]
+      },
+      {
+        "name": "Sugar and Spice",
+        "options": [[["en", "+5/+10"]], [["po", "+10"]]]
+      }
+    ]
+  },
+  "1035": {
+    "uma": "Winning Ticket",
+    "some_stats": ["gu", ["gu", "in"], "gu"],
+    "metabolism_event": "Full-Power Eating!",
+    "slacker_event": "Perfect Weather for Tinkering?",
+    "events": [
+      {
+        "name": "Rain or Shine",
+        "options": [[["en", "-10"], ["st", "+10"], ["pt", "+15"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Overcome the Towering Obstacle!",
+        "options": [[["mo", "+1"], ["gu", "+5"]], [["mo", "+1"], ["po", "+5"]]]
+      },
+      {
+        "name": "A Fresh Perspective",
+        "options": [[["sp", "+10"], ["pt", "+15"]], [["sk", "+1", 200492]]]
+      },
+      {
+        "name": "\u901a\u5f80\u751c\u9ede\u7684\u8def",
+        "options": [
+          [["en", "-15"], ["sk", "+2", 201382], ["sk", "+2", 201392]],
+          [["en", "-15"], ["sk", "+2", 200592], ["sk", "+2", 200602]],
+          [["in", "+15"]]
+        ]
+      },
+      {
+        "name": "Play of the Three Kingdoms",
+        "options": [[["st", "+5"], ["pt", "+15"]], [["po", "+5"], ["pt", "+15"]]]
+      },
+      {
+        "name": "Futsal, Now?!",
+        "options": [[["gu", "+10"]], [["sp", "+10"]]]
+      },
+      {
+        "name": "The Last Ticket",
+        "options": [[["gu", "+10"]], [["sp", "+10"]], [["po", "+10"]]]
+      },
+      {
+        "name": "Shake Off Your Blues!",
+        "options": [[["mo", "+1"], ["po", "+5"]], [["sp", "+5"], ["pt", "+15"]]]
+      },
+      {
+        "name": "Big Girls Cry Too",
+        "options": [[["gu", "+5"], ["pt", "+15"]], [["mo", "+1"], ["po", "+5"]]]
+      }
+    ]
+  }
+}
